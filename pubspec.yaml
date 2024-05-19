@@ -1,0 +1,76 @@
+name: onboarding
+description: "A modern onboarding screen for flutter by 0krushang"
+publish_to: 'none'
+version: 1.0.0+1
+
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  concentric_transition: ^1.0.3
+  lottie: ^3.1.2
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: Demo
+      fonts:
+
+        - asset: assets\fonts\Sk-Modernist-Regular.otf
+          weight: 400
+        - asset: assets\fonts\Sk-Modernist-Mono.otf
+          weight: 500
+        - asset: assets\fonts\Sk-Modernist-Bold.otf
+          weight: 600
+
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
